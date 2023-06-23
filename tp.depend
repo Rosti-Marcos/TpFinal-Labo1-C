@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1622914013 source:c:\users\1\desktop\codeblocks\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1624651116 source:c:\users\victor\documents\utn\programacion y laboratorio\tp final\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+	<windows.h>
+
+1624302472 source:c:\users\1\desktop\codeblocks\tpf al 20-6\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1491400450 source:c:\users\victor\documents\utn\programacion y laboratorio\tp final\nueva carpeta\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399896 c:\users\victor\documents\utn\programacion y laboratorio\tp final\nueva carpeta\gotoxy.h
+
+1491400450 source:c:\users\1\desktop\codeblocks\nueva carpeta\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
